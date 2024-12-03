@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Pedro Lopes
+## Olá Pessoal! 👋 Sou o Pedro
+### Sobre mim: ###
+🎯 Focado em Front-End! Ainda estou engatinhando mas aperfeiçoando cada dia mais! 
 <div>
     <a href="https://github.com/PedroLopesProg"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLopesProg&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
